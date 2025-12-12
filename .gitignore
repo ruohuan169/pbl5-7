@@ -52,3 +52,22 @@ test-*.js
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Generated files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
